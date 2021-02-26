@@ -4,4 +4,5 @@ This video game consists of a series of player-controlled ships that dispense st
 
 ## Controles
 Ship movement: arrow keys
+
 Ship star dispensation: D
