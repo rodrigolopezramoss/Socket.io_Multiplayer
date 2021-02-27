@@ -8,6 +8,10 @@ Ship movement: arrow keys
 
 Ship star dispensation: D
 
+## Play the game
+https://cazaestrellas.herokuapp.com/
+
+
 ## Screenshots
 ### Menu
 
